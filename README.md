@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaishnavi Kumari
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, Python,C++, HTML, CSS and JS
+- 🌱 I’m currently learning Java, Python,C++, HTML, CSS,JSON Ruby and JS all at once 😂
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
